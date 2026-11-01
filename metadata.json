@@ -1,0 +1,6 @@
+{
+  "name": "Chandrayaan-3: Giant Leap to Lunar South Pole",
+  "description": "A cinematic 20-second space documentary and interactive multimedia report on ISRO's historic Chandrayaan-3 mission to the lunar south pole.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
